@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eriktorkelsson.github.io/Sitemap
+Sitemap: https://eriktorkelsson.github.io/sitemap
